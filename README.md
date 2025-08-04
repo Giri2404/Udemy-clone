@@ -28,14 +28,6 @@ This project is a static clone of the Udemy homepage. It demonstrates proficienc
 
 ---
 
-## 📷 Screenshots
-
-> _Add screenshots of your design here (optional but recommended)_  
-> Example:
-> ![Homepage Screenshot](./screenshots/home.png)
-
----
-
 ## 📁 Folder Structure
 
 ```
@@ -76,7 +68,7 @@ To view the project locally:
 ## 🌐 Live Demo
 
 > *If hosted on GitHub Pages or Netlify, add link here*
-> **[Live Demo](link)**
+> **[Live Demo]([link](https://giri2404.github.io/Udemy-clone/))**
 
 ---
 
