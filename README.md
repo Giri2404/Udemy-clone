@@ -67,9 +67,7 @@ To view the project locally:
 
 ## 🌐 Live Demo
 
-> *If hosted on GitHub Pages or Netlify, add link here*
-> **[Live Demo]([link](https://giri2404.github.io/Udemy-clone/))**
-
+> You can view the live version [[Link](https://giri2404.github.io/Udemy-clone/)].
 ---
 
 Thank you for Visting for my Website.
